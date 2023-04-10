@@ -1,0 +1,10 @@
+True or false questions:
+The capital of Australia is Sydney.
+A zebra is a type of bird.
+The Great Wall of China is the longest wall in the world.
+The Pacific Ocean is the smallest ocean in the world.
+William Shakespeare was born in the 17th century.
+multiple choice questions:
+What is the capital of France?;a) Paris;b) London;c) Berlin;d) Madrid
+What is the largest planet in our solar system?;a) Jupiter;b) Earth;c) Mars;d) Venus
+What is the tallest mountain in the world?;a) Mount Everest;b) Kilimanjaro;c) Mount Fuji;d) Denali
